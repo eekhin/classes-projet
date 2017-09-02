@@ -1,6 +1,6 @@
-# Automation Project
+# Classed Project
 
-*Structure for creating a Basic automation test using Selenium.*
+*Structure for creating a Classed Project.*
 
 **Java 8**
 
