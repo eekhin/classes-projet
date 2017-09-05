@@ -145,16 +145,15 @@ public class Bug {
 				+ this.frequency + ", isActive=" + this.isActive + "]";
 	}
 
-	private void applyBugFix()
-	{
-	     System.out.println("Apply Bug Fix");
+	private void applyBugFix() {
+		System.out.println("Apply Bug Fix");
 	}
-	private void recreateBugActivity()
-	{
-	     System.out.println("Bug Activity");
+
+	private void findSimilarBugs() {
+		System.out.println("Similar Bugs");
 	}
-	privat void findSimilarBugs()
-	{
-	     System.out.println("Similar Bugs");
+
+	private void recreateBugActivity() {
+		System.out.println("Bug Activity");
 	}
 }
